@@ -11,16 +11,17 @@ import logout_icon from './logout_icon.svg'
 import bin_icon from './bin_icon.svg'
 import send_icon from './send_icon.svg'
 import stop_icon from './stop_icon.svg'
+import profile_icon from './profile_icon.svg'
 
 export const assets = {
   logo_full, logo_full_dark, menu_icon, close_icon, search_icon, gallery_icon,
-  diamond_icon, theme_icon, user_icon, logout_icon, bin_icon, send_icon, stop_icon,
+  diamond_icon, theme_icon, user_icon, logout_icon, bin_icon, send_icon, stop_icon,profile_icon
 }
 
 export const dummyUserData = {
   _id: 'u1',
-  name: 'Ujjwal Savita',
-  email: 'ujjwal@example.com',
+  name: 'Shnidev mehta',
+  email: 'kumarshnidev9@gmail.com',
   credits: 20,
 }
 
